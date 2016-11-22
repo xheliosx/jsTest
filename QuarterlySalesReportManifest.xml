@@ -11,7 +11,7 @@
         <Capability Name="Workbook" />
       </Capabilities>
       <DefaultSettings>
-        <SourceLocation DefaultValue="https://dl.dropboxusercontent.com/u/61976862/Test/Home.html" />
+        <SourceLocation DefaultValue="https://github.com/xheliosx/jsTest/blob/master/Home.html />
       </DefaultSettings>
       <Permissions>ReadWriteDocument</Permissions>
     </OfficeApp>
