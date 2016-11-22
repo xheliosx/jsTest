@@ -1,0 +1,18 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+    <!--Created:37a1cab0-c6bf-4ea7-864f-3a8f15341b78-->
+    <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
+      <Id>37a1cab0-c6bf-4ea7-864f-3a8f15341b78</Id>
+      <Version>1.0.0.0</Version>
+      <ProviderName>Microsoft</ProviderName>
+      <DefaultLocale>en-US</DefaultLocale>
+      <DisplayName DefaultValue="Quarterly Sales Report Sample" />
+      <Description DefaultValue="Quarterly Sales Report Sample"/>
+      <Capabilities>
+        <Capability Name="Workbook" />
+      </Capabilities>
+      <DefaultSettings>
+        <SourceLocation DefaultValue="https://dl.dropboxusercontent.com/u/61976862/Test/Home.html" />
+      </DefaultSettings>
+      <Permissions>ReadWriteDocument</Permissions>
+    </OfficeApp>
+
